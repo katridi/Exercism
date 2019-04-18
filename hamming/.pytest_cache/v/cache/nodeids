@@ -1,0 +1,11 @@
+[
+  "hamming_test.py::HammingTest::test_disallow_first_strand_longer",
+  "hamming_test.py::HammingTest::test_disallow_left_empty_strand",
+  "hamming_test.py::HammingTest::test_disallow_right_empty_strand",
+  "hamming_test.py::HammingTest::test_disallow_second_strand_longer",
+  "hamming_test.py::HammingTest::test_empty_strands",
+  "hamming_test.py::HammingTest::test_long_different_strands",
+  "hamming_test.py::HammingTest::test_long_identical_strands",
+  "hamming_test.py::HammingTest::test_single_letter_different_strands",
+  "hamming_test.py::HammingTest::test_single_letter_identical_strands"
+]
