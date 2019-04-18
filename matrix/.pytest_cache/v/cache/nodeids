@@ -1,0 +1,10 @@
+[
+  "matrix_test.py::MatrixTest::test_can_extract_column",
+  "matrix_test.py::MatrixTest::test_can_extract_column_from_non_square_matrix",
+  "matrix_test.py::MatrixTest::test_can_extract_row",
+  "matrix_test.py::MatrixTest::test_can_extract_row_from_non_square_matrix",
+  "matrix_test.py::MatrixTest::test_extract_column_from_one_number_matrix",
+  "matrix_test.py::MatrixTest::test_extract_column_where_numbers_have_different_widths",
+  "matrix_test.py::MatrixTest::test_extract_row_from_one_number_matrix",
+  "matrix_test.py::MatrixTest::test_extract_row_where_numbers_have_different_widths"
+]
