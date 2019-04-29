@@ -1,0 +1,20 @@
+[
+  "raindrops_test.py::RaindropsTest::test_2_to_the_power_3_does_not_make_sound",
+  "raindrops_test.py::RaindropsTest::test_the_sound_for_105_is_plingplangplong",
+  "raindrops_test.py::RaindropsTest::test_the_sound_for_10_is_plang",
+  "raindrops_test.py::RaindropsTest::test_the_sound_for_12121_is_12121",
+  "raindrops_test.py::RaindropsTest::test_the_sound_for_14_is_plong",
+  "raindrops_test.py::RaindropsTest::test_the_sound_for_15_is_plingplang",
+  "raindrops_test.py::RaindropsTest::test_the_sound_for_1_is_1",
+  "raindrops_test.py::RaindropsTest::test_the_sound_for_21_is_plingplong",
+  "raindrops_test.py::RaindropsTest::test_the_sound_for_25_is_plang",
+  "raindrops_test.py::RaindropsTest::test_the_sound_for_27_is_pling",
+  "raindrops_test.py::RaindropsTest::test_the_sound_for_35_is_plangplong",
+  "raindrops_test.py::RaindropsTest::test_the_sound_for_3_is_pling",
+  "raindrops_test.py::RaindropsTest::test_the_sound_for_49_is_plong",
+  "raindrops_test.py::RaindropsTest::test_the_sound_for_52_is_52",
+  "raindrops_test.py::RaindropsTest::test_the_sound_for_5_is_plang",
+  "raindrops_test.py::RaindropsTest::test_the_sound_for_6_is_pling",
+  "raindrops_test.py::RaindropsTest::test_the_sound_for_7_is_plong",
+  "raindrops_test.py::RaindropsTest::test_the_sound_for_9_is_pling"
+]

@@ -1,0 +1,6 @@
+{
+  "saddle_points_test.py::SaddlePointsTest::test_empty_matrix_has_no_saddle_points": true,
+  "saddle_points_test.py::SaddlePointsTest::test_identify_multiple_saddle_points_in_row": true,
+  "saddle_points_test.py::SaddlePointsTest::test_non_square_matrix_with_2_saddle_points": true,
+  "saddle_points_test.py::SaddlePointsTest::test_single_row_matrix_has_saddle_point_in_max_value": true
+}
